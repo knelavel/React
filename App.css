@@ -1,0 +1,14 @@
+.Container{
+    text-align: center;
+    
+}
+
+body{
+    align-items: center;
+    
+    background: pink;
+}
+
+.btn{
+    background-color: lightblue;
+}
